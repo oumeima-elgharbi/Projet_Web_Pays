@@ -1,6 +1,10 @@
 # Projet_Web_Pays
 Projet de L1 Informatique, Université de Lille, Langage : HTML5, CSS3
 
+Auteur : Oumeima EL GHARBI
+
+Date : mars 2019
+
 ## Archive :
 L'archive contient :
 - un fichier "index.html"
